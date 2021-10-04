@@ -1,0 +1,6 @@
+2021-10-01 17:37:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]# NOINSPECTION SQLNODATASOURCEINSPECTIONFORFILE "; SQL statement:
+# noinspection SqlNoDataSourceInspectionForFile [42000-199]
+2021-10-01 17:43:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]# NOINSPECTION SQLNODATASOURCEINSPECTIONFORFILE "; SQL statement:
+# noinspection SqlNoDataSourceInspectionForFile [42000-199]
